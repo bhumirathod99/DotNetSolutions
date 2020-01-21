@@ -1,0 +1,4 @@
+G:\sem6\DotNet\DotNetSolutions\Practical1\bin\Debug\Practical1.exe
+G:\sem6\DotNet\DotNetSolutions\Practical1\bin\Debug\Practical1.pdb
+G:\sem6\DotNet\DotNetSolutions\Practical1\obj\x86\Debug\Practical1.exe
+G:\sem6\DotNet\DotNetSolutions\Practical1\obj\x86\Debug\Practical1.pdb
