@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical1", "Practical1\Practical1.csproj", "{9E8ECA0A-1C41-41B2-8ADE-E5FDD82D55C7}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical2", "Practical2\Practical2.csproj", "{CFBED578-25E4-4BA8-AE9E-ED71F9A1795B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical3", "Practical3\Practical3.csproj", "{D7488E3C-555E-4487-B42A-BCBFAC78B0BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical1", "Practical1\Practical1.csproj", "{BB5B468D-73A2-477F-9405-01863E566480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical4", "Practical4\Practical4.csproj", "{DB422CAD-C1D5-4E95-985F-E9EADC69E353}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +15,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9E8ECA0A-1C41-41B2-8ADE-E5FDD82D55C7}.Debug|x86.ActiveCfg = Debug|x86
-		{9E8ECA0A-1C41-41B2-8ADE-E5FDD82D55C7}.Debug|x86.Build.0 = Debug|x86
-		{9E8ECA0A-1C41-41B2-8ADE-E5FDD82D55C7}.Release|x86.ActiveCfg = Release|x86
-		{9E8ECA0A-1C41-41B2-8ADE-E5FDD82D55C7}.Release|x86.Build.0 = Release|x86
 		{CFBED578-25E4-4BA8-AE9E-ED71F9A1795B}.Debug|x86.ActiveCfg = Debug|x86
 		{CFBED578-25E4-4BA8-AE9E-ED71F9A1795B}.Debug|x86.Build.0 = Debug|x86
 		{CFBED578-25E4-4BA8-AE9E-ED71F9A1795B}.Release|x86.ActiveCfg = Release|x86
@@ -25,6 +23,14 @@ Global
 		{D7488E3C-555E-4487-B42A-BCBFAC78B0BD}.Debug|x86.Build.0 = Debug|x86
 		{D7488E3C-555E-4487-B42A-BCBFAC78B0BD}.Release|x86.ActiveCfg = Release|x86
 		{D7488E3C-555E-4487-B42A-BCBFAC78B0BD}.Release|x86.Build.0 = Release|x86
+		{BB5B468D-73A2-477F-9405-01863E566480}.Debug|x86.ActiveCfg = Debug|x86
+		{BB5B468D-73A2-477F-9405-01863E566480}.Debug|x86.Build.0 = Debug|x86
+		{BB5B468D-73A2-477F-9405-01863E566480}.Release|x86.ActiveCfg = Release|x86
+		{BB5B468D-73A2-477F-9405-01863E566480}.Release|x86.Build.0 = Release|x86
+		{DB422CAD-C1D5-4E95-985F-E9EADC69E353}.Debug|x86.ActiveCfg = Debug|x86
+		{DB422CAD-C1D5-4E95-985F-E9EADC69E353}.Debug|x86.Build.0 = Debug|x86
+		{DB422CAD-C1D5-4E95-985F-E9EADC69E353}.Release|x86.ActiveCfg = Release|x86
+		{DB422CAD-C1D5-4E95-985F-E9EADC69E353}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -7,13 +7,14 @@ namespace Practical2
 {
     class Program
     {
+      
         static void rectangle()
         {
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
                 {
-                    Console.Write(" * ");
+                    Console.Write("*");
                 }
                 Console.Write("\n");
             }
@@ -25,7 +26,7 @@ namespace Practical2
             {
                 for (int j = 0; j <= i; j++)
                 {
-                    Console.Write(" * ");
+                    Console.Write("*");
                 }
                 Console.Write("\n");
             }
@@ -35,9 +36,13 @@ namespace Practical2
         {
             for (int i = 0; i < 5; i++)
             {
+                for (int j = i; j < 5; j++)
+                {
+                    Console.Write(" ");
+                }
                 for (int j = 0; j <= i; j++)
                 {
-                    Console.Write(" * ");
+                    Console.Write("*");
                 }
                 Console.Write("\n");
             }
@@ -46,9 +51,12 @@ namespace Practical2
 
         static void Main(string[] args)
         {
+           
             rectangle();
             Console.WriteLine();
             tringle_left();
+            Console.WriteLine();
+            tringle_right();
             Console.Read();
         }
     }
