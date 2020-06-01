@@ -2,3 +2,5 @@ G:\sem6\DotNet\DotNetSolutions\Practical4\bin\Debug\Practical4.exe
 G:\sem6\DotNet\DotNetSolutions\Practical4\bin\Debug\Practical4.pdb
 G:\sem6\DotNet\DotNetSolutions\Practical4\obj\x86\Debug\Practical4.exe
 G:\sem6\DotNet\DotNetSolutions\Practical4\obj\x86\Debug\Practical4.pdb
+E:\sem6\DotNet\DotNetSolutions\Practical4\obj\x86\Debug\Practical4.exe
+E:\sem6\DotNet\DotNetSolutions\Practical4\obj\x86\Debug\Practical4.pdb
